@@ -1,0 +1,353 @@
+{
+  "speaker": {
+    "firstName": "Noah",
+    "lastName": "Jelich",
+    "tagline": "Security Researcher & Software Architect",
+    "bio": "Technical lead with expertise in security research, full stack software engineering, and blockchain development.",
+    "speakerProfileUrl": "https://sessionize.com/njelich",
+    "photoUrl": "https://sessionize.com/image/721d-200o200o2-L7S8XxamYfbGXXgzWWD4jf.png",
+    "photoLargeUrl": "https://sessionize.com/image/6a0c-1000o1000o1-L7S8XxamYfbGXXgzWWD4jf.png"
+  },
+  "sessions": [
+    {
+      "id": 131083,
+      "title": "Killing with Keyboards – How Your Digital Footprint Can Be Weaponized",
+      "description": "In an era where information is power, the wrong keystroke can mean the difference between security and catastrophe. Killing with Keyboards explores real-world scenarios where digital traces—social media posts, blockchain transactions, leaked metadata—become vulnerabilities exploited by hackers, corporations, and state actors.",
+      "sessionUrl": "https://sessionize.com/s/njelich/killing-with-keyboards-how-your-digital-footprint-/131083",
+      "languageCode": "en",
+      "language": "English"
+    }
+  ],
+  "events": [
+    {
+      "id": 1015241,
+      "name": "SFSCON 2025",
+      "description": "Presented \"Killing with Keyboards\"",
+      "links": [
+        "https://www.youtube.com/watch?v=Zk1e4YHk7mA"
+      ],
+      "eventStartDate": "2025-11-07T00:00:00Z",
+      "eventEndDate": "2025-11-08T00:00:00Z",
+      "location": "Bolzano, Italy",
+      "website": "https://www.sfscon.it/"
+    },
+    {
+      "id": 17646,
+      "name": "INIT 2025 Dev Conference",
+      "description": "Presented \"Killing with Keyboards\"",
+      "eventStartDate": "2025-10-10T00:00:00",
+      "eventEndDate": "2025-10-11T00:00:00",
+      "location": "Banja Luka, Bosnia and Herzegovina",
+      "website": "https://initconf.org/"
+    },
+    {
+      "id": 1014800,
+      "name": "ETHVenice 2025",
+      "description": "Presented \"Killing with Keyboards\"",
+      "eventStartDate": "2025-10-01T00:00:00Z",
+      "eventEndDate": "2025-10-01T00:00:00Z",
+      "location": "Venice, Italy",
+      "website": "https://ethvenice.com"
+    },
+    {
+      "id": 16583,
+      "name": "BSides Kraków 2025",
+      "description": "Presented \"Killing with Keyboards\"",
+      "eventStartDate": "2025-09-27T00:00:00",
+      "eventEndDate": "2025-09-27T00:00:00",
+      "location": "Kraków, Poland",
+      "website": "https://bsideskrakow.pl"
+    },
+    {
+      "id": 1014799,
+      "name": "EDCON 2025",
+      "description": "Presented \"Killing with Keyboards\"",
+      "eventStartDate": "2025-09-16T00:00:00Z",
+      "eventEndDate": "2025-09-19T00:00:00Z",
+      "location": "Osaka, Japan",
+      "website": "https://www.edcon.io",
+      "links": [
+        "https://www.youtube.com/watch?v=GZAG9LnsfBg"
+      ]
+    },
+    {
+      "id": 1014583,
+      "name": "ETHTokyo 2025",
+      "description": "Panel: \"Who Holds the Private Key: Reconstructing Wallet UX and Privacy\"",
+      "eventStartDate": "2025-09-12T00:00:00Z",
+      "eventEndDate": "2025-09-15T00:00:00Z",
+      "location": "Tokyo, Japan",
+      "website": "https://ethtokyo.org/"
+    },
+    {
+      "id": 1013742,
+      "name": "EthCC 2025",
+      "description": "Presented \"Killing with Keyboards\"",
+      "eventStartDate": "2025-06-30T00:00:00Z",
+      "eventEndDate": "2025-07-03T00:00:00Z",
+      "location": "Cannes, France",
+      "website": "https://ethcc.io/",
+      "links": [
+        "https://www.youtube.com/watch?v=igEDUhONP2I",
+        "https://www.youtube.com/watch?v=tN_4pH_OW3g"
+      ]
+    },
+    {
+      "id": 1013176,
+      "name": "ETHCluj 2025",
+      "description": "Presented \"Killing With Keyboards\". Panels: \"Public Goods and open Source: Why They Matter More Than Ever\", \"Web3Sec: Navigating Security Challenges\", \"Building dApps: How to Start and What It Takes\"",
+      "eventStartDate": "2025-06-26T00:00:00Z",
+      "eventEndDate": "2025-06-28T00:00:00Z",
+      "location": "Cluj-Napoca, Romania",
+      "website": "https://www.ethcluj.org/",
+      "links": [
+        "https://www.youtube.com/watch?v=8WjaYBY93O0",
+        "https://www.youtube.com/watch?v=pujD93QP1S4",
+        "https://www.youtube.com/watch?v=96GXTPjue-s"
+      ]
+    },
+    {
+      "id": 1013175,
+      "name": "Web3 Security Summit 2025",
+      "description": "Presented \"Killing With Keyboards\"",
+      "eventStartDate": "2025-06-04T00:00:00Z",
+      "eventEndDate": "2025-06-04T00:00:00Z",
+      "location": "Belgrade, Serbia",
+      "website": "https://web3securitysummit.com/"
+    },
+    {
+      "id": 1013079,
+      "name": "ETHBelgrade 2025",
+      "description": "Presented \"Killing With Keyboards\"",
+      "eventStartDate": "2025-06-03T00:00:00Z",
+      "eventEndDate": "2025-06-05T00:00:00Z",
+      "location": "Belgrade, Serbia",
+      "website": "https://ethbelgrade.rs/",
+      "links": [
+        "https://www.youtube.com/watch?v=KvnMDTGhM9M"
+      ]
+    },
+    {
+      "id": 1013744,
+      "name": "ETHPrague 2025",
+      "description": "Presented \"Killing with Keyboards\"",
+      "eventStartDate": "2025-05-27T00:00:00Z",
+      "eventEndDate": "2025-05-29T00:00:00Z",
+      "location": "Prague, Czechia",
+      "website": "https://ethprague.com/",
+      "links": [
+        "https://www.youtube.com/watch?v=OZWZAFqj_Mk"
+      ]
+    },
+    {
+      "id": 1013177,
+      "name": "ETHBratislava 2025",
+      "description": "Presented \"Killing With Keyboards\"",
+      "eventStartDate": "2025-05-23T00:00:00Z",
+      "eventEndDate": "2025-05-24T00:00:00Z",
+      "location": "Bratislava, Slovakia",
+      "website": "https://ethbratislava.com/"
+    },
+    {
+      "id": 1013373,
+      "name": "DORS/CLUC 2025",
+      "description": "Presented \"Killing With Keyboards\"",
+      "eventStartDate": "2025-05-21T00:00:00Z",
+      "eventEndDate": "2025-05-23T00:00:00Z",
+      "location": "Zagreb, Croatia",
+      "website": "https://www.dorscluc.org/"
+    },
+    {
+      "id": 1013372,
+      "name": "BAB2025",
+      "description": "Presented \"Killing With Keyboards\"",
+      "eventStartDate": "2025-05-15T00:00:00Z",
+      "eventEndDate": "2025-05-18T00:00:00Z",
+      "location": "Thessaloníki, Greece",
+      "website": "https://bab2025.espivblogs.net/"
+    },
+    {
+      "id": 1013428,
+      "name": "ETHDam 2025",
+      "description": "Presented \"Killing with Keyboards\"",
+      "eventStartDate": "2025-05-09T00:00:00Z",
+      "eventEndDate": "2025-05-11T00:00:00Z",
+      "location": "Amsterdam, The Netherlands",
+      "website": "https://www.ethdam.com/",
+      "links": [
+        "https://www.youtube.com/watch?v=l3Hfudjyyx0"
+      ]
+    },
+    {
+      "id": 1013429,
+      "name": "HyperNest 2025",
+      "description": "Led 1:1 mentorship sessions and workshops on practical security for participants.",
+      "eventStartDate": "2025-04-30T00:00:00Z",
+      "eventEndDate": "2025-04-30T00:00:00Z",
+      "location": null,
+      "website": "https://hypernest.xyz/defi-accelerator/"
+    },
+    {
+      "id": 1008886,
+      "name": "Web3 Security Summit 2024",
+      "description": "Presented \"Unveiling Wasmcov\"",
+      "eventStartDate": "2024-06-07T00:00:00Z",
+      "eventEndDate": "2024-06-07T00:00:00Z",
+      "location": "Belgrade, Serbia",
+      "website": "https://web3securitysummit.com/",
+      "links": [
+        "https://www.youtube.com/watch?v=_6gKShm7dTc"
+      ]
+    },
+    {
+      "id": 1010438,
+      "name": "Rust Summit 2024",
+      "description": "Presented \"Unveiling Wasmcov\"",
+      "eventStartDate": "2024-06-06T00:00:00Z",
+      "eventEndDate": "2024-06-06T00:00:00Z",
+      "location": "Belgrade, Serbia",
+      "website": "https://rustsummit.com/",
+      "links": [
+        "https://www.youtube.com/watch?v=kWQPMBMGlP8"
+      ]
+    },
+    {
+      "id": 1010437,
+      "name": "ETHBelgrade 2024",
+      "description": "Presented a talk on AML compliance and KYC regulation",
+      "eventStartDate": "2024-06-03T00:00:00Z",
+      "eventEndDate": "2024-06-05T00:00:00Z",
+      "location": "Belgrade, Serbia",
+      "website": "https://ethbelgrade.rs/",
+      "links": [
+        "https://www.youtube.com/watch?v=65cEvyW8VPY"
+      ]
+    },
+    {
+      "id": 1009157,
+      "name": "DORS/CLUC 2024",
+      "description": "Presented \"Unveiling Wasmcov\"",
+      "eventStartDate": "2024-05-15T00:00:00Z",
+      "eventEndDate": "2024-05-19T00:00:00Z",
+      "location": "Zagreb, Croatia",
+      "website": "https://www.dorscluc.org/"
+    },
+    {
+      "id": 13461,
+      "name": "Weblica 2024",
+      "eventStartDate": "2024-05-10T00:00:00",
+      "eventEndDate": "2024-05-10T00:00:00",
+      "location": "Čakovec, Croatia",
+      "website": "https://weblica.hr/"
+    },
+    {
+      "id": 12982,
+      "name": "Open Source Day 2024",
+      "eventStartDate": "2024-03-07T00:00:00",
+      "eventEndDate": "2024-03-08T00:00:00",
+      "location": "Florence, Italy",
+      "website": "https://2024.osday.dev/",
+      "description": "Presented \"Unveiling Wasmcov\"",
+      "links": [
+        "https://www.youtube.com/watch?v=O3jdp4GuCro"
+      ]
+    },
+    {
+      "id": 1008880,
+      "name": "MTS Tunisia 2023",
+      "description": "Ran \"Smart Contract Mutation Testing\" workshop, participated in a panel on Cryptocurrencies and acted as a judge for the hackathon",
+      "eventStartDate": "2023-11-24T00:00:00Z",
+      "eventEndDate": "2023-11-26T00:00:00Z",
+      "location": "Hammamet, Tunisia",
+      "website": "https://www.metaverse-summit.tn/"
+    },
+    {
+      "id": 1008881,
+      "name": "DeFiSecuritySummit 2023",
+      "description": "Presented a lightning talk version of \"Honeypots - Hacker Traps On The Blockchain\"",
+      "links": [
+        "https://www.youtube.com/watch?v=4bSQWoy5a_k"
+      ],
+      "eventStartDate": "2023-07-15T00:00:00Z",
+      "eventEndDate": "2023-07-16T00:00:00Z",
+      "location": "Paris, France",
+      "website": "https://defisecuritysummit.org/"
+    },
+    {
+      "id": 1008887,
+      "name": "DevX Global Tour 2023",
+      "description": "Participated in panel on major issues in Web3",
+      "eventStartDate": "2023-07-07T00:00:00Z",
+      "eventEndDate": "2023-07-07T00:00:00Z",
+      "location": "Zagreb, Croatia",
+      "website": "https://polygon.technology/devxglobaltour"
+    },
+    {
+      "id": 1008879,
+      "name": "ETHBelgrade 2023",
+      "description": "Presented \"Honeypots - Hacker Traps On The Blockchain\" and moderated a panel on the topic of reducing smart contract hacks",
+      "links": [
+        "https://www.youtube.com/watch?v=sR3bxIIl1sg",
+        "https://www.youtube.com/watch?v=1OIScyASkkQ"
+      ],
+      "eventStartDate": "2023-06-03T00:00:00Z",
+      "eventEndDate": "2023-06-05T00:00:00Z",
+      "location": "Belgrade, Serbia",
+      "website": "https://ethbelgrade.rs/"
+    },
+    {
+      "id": 1008883,
+      "name": "HyperNest 2023",
+      "description": "Participated as a judge and held a workshop on \"Test-driven Development\"",
+      "eventStartDate": "2023-05-14T00:00:00Z",
+      "eventEndDate": "2023-05-31T00:00:00Z",
+      "location": null,
+      "website": "https://hypernest.xyz/accelerator-program/"
+    },
+    {
+      "id": 1008878,
+      "name": "Venom Hackathon 2023",
+      "description": "Participated as a Judge and as a Mentor, presented \"How To Secure Your Web3 Project\"",
+      "links": [
+        "https://www.youtube.com/watch?v=NNXfNng3WDo"
+      ],
+      "eventStartDate": "2023-05-08T00:00:00Z",
+      "eventEndDate": "2023-06-17T00:00:00Z",
+      "location": null,
+      "website": "https://dorahacks.io/hackathon/venom-hackathon/detail"
+    },
+    {
+      "id": 1008884,
+      "name": "Pozitive Technologies 2022",
+      "description": "Presented earlier version of \"Honeypots - Hacker Traps On The Blockchain\"",
+      "links": [
+        "https://www.youtube.com/watch?v=MxNp-PXL7WU"
+      ],
+      "eventStartDate": "2022-11-24T00:00:00Z",
+      "eventEndDate": "2022-11-24T00:00:00Z",
+      "location": "Poznań, Poland",
+      "website": "https://pozitive.tech/en/"
+    },
+    {
+      "id": 1008882,
+      "name": "Testival Meetup 2022",
+      "description": "Presented \"Test-driven Blockchain Development\"",
+      "eventStartDate": "2022-10-21T00:00:00Z",
+      "eventEndDate": "2022-10-21T00:00:00Z",
+      "location": "Zagreb, Croatia",
+      "website": "https://testival.eu/"
+    },
+    {
+      "id": 1008885,
+      "name": "UBIK Meetup 2022",
+      "description": "Presented early draft of \"Honeypots - Hacker Traps On The Blockchain\"",
+      "links": [
+        "https://www.youtube.com/watch?v=YT38-eoEMCI"
+      ],
+      "eventStartDate": "2022-07-08T00:00:00Z",
+      "eventEndDate": "2022-07-08T00:00:00Z",
+      "location": "Zagreb, Croatia",
+      "website": "https://ubik.hr/en/"
+    }
+  ]
+}
