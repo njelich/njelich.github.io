@@ -14,7 +14,7 @@ Noah Jelich is a security researcher and software engineer at [Oasis](https://oa
 
 ## Media Gallery
 
-- [Headshot - Full Color](assets/img/profileimage.jpg)
+- [Headshot - Full Color](/assets/img/profileimage.jpg)
 
 ## Long Bio
 
