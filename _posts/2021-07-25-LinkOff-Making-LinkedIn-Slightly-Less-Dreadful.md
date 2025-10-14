@@ -3,6 +3,7 @@ title: LinkOff - Making LinkedIn Slightly Less Dreadful
 description: A deep dive into the engineering of a silly little browser extension that I made as a form of trauma response after spending weeks writing and testing LinkedIn automation code at work.
 categories: [Projects]
 tags: [browser-extension, javascript, linkedin, web-scraping, content-filtering]
+mermaid: true
 ---
 
 > "The only teaching that a professor can give, in my opinion, is that of thinking in front of his students." - Henri Lebesgue
@@ -23,17 +24,24 @@ But that also meant I spent hours on LinkedIn... Watching the **Feed**. Ugh. So 
 
 LinkOff uses a classic content script architecture that's common in browser extensions:
 
-```
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Popup UI      │◄──►│ Service Worker  │◄──►│ Content Script  │
-│  (popup.html)   │    │(service_worker) │    │  (injected JS)  │
-└─────────────────┘    └─────────────────┘    └─────────────────┘
-                              │
-                              ▼
-                       ┌─────────────────┐
-                       │ Chrome Storage  │
-                       │    (local)      │
-                       └─────────────────┘
+
+```mermaid
+flowchart
+    A["Popup UI<br/>(popup.html)"] 
+    B["Service Worker<br/>(service_worker.js)"]
+    C["Content Script<br/>(injected JS)"]
+    D["Chrome Storage<br/>(local)"]
+    
+    subgraph topRow[" "]
+        direction LR
+        A <--> B
+        B <--> C
+        A ~~~ C
+    end
+
+    B ---> D
+    
+    style topRow fill:none,stroke:none,color:transparent
 ```
 
 ### Key Components

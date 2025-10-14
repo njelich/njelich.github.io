@@ -3,6 +3,7 @@ title: Wasmcov - WebAssembly Code Coverage the Hard Way
 description: A deep dive into the engineering behind wasmcov, a Rust tool that brings LLVM code coverage to WebAssembly by cleverly working around the limitations of existing tooling.
 categories: [Projects]
 tags: [rust, webassembly, llvm, code-coverage, near-protocol, testing]
+mermaid: true
 ---
 
 > "The best way to find out if you can trust somebody is to trust them." - Ernest Hemingway
@@ -37,17 +38,18 @@ WebAssembly binaries don't contain the `__llvm_covmap` section that `llvm-cov` n
 
 Wasmcov implements a multi-stage pipeline to work around this limitation:
 
-```
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   Rust Source   │───►│   LLVM IR       │───►│   Object File   │
-│   + Instr.      │    |   (.ll files)   │    │   (.o files)    │
-└─────────────────┘    └─────────────────┘    └─────────────────┘
-                                                        │
-                                                        ▼
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│ Coverage Report │◄───│   llvm-cov      │◄───│ Runtime Coverage│
-│   (HTML/JSON)   │    │                 │    │  (.profraw)     │
-└─────────────────┘    └─────────────────┘    └─────────────────┘
+```mermaid
+flowchart
+    A["Rust Source<br/>+ Instr."] 
+    B["LLVM IR<br/>(.ll files)"]
+    C["Object File<br/>(.o files)"]
+    D["Runtime Coverage<br/>(.profraw)"]
+    E["llvm-cov"]
+    F["Coverage Report<br/>(HTML/JSON)"]
+    
+    A --> B --> C --> D --> E --> F
+    A ~~~ F
+    B ~~~ E
 ```
 
 ### Key Components
