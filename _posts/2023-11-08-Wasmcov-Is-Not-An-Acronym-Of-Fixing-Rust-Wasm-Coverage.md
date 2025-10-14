@@ -56,7 +56,6 @@ Wasmcov implements a multi-stage pipeline to work around this limitation:
 2. **LLVM Tooling** (`src/llvm.rs`) - Interfaces with LLVM tools and version detection
 3. **Runtime Integration** - Captures coverage data from WASM modules
 4. **Report Generation** (`src/report.rs`) - Merges raw data and generates reports
-5. **NEAR Sandbox** (`src/near_sandbox.rs`) - Specialized support for NEAR Protocol
 
 ## The LLVM IR to Object File Strategy
 

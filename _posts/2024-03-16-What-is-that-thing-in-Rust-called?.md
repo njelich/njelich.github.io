@@ -5,7 +5,7 @@ categories: [Programming]
 tags: [rust, syntax, reference, vocabulary]
 ---
 
-A few years back, I heard [D.H.A.R.N.T.Z.](https://www.youtube.com/watch?v=feIeCR6oFNM) by Jazz Emu. Unfortunately, the song is about homophones, which makes it insanely hard to find online if you forgot the artists name and the exact spelling. I searched for months, trying various misremebered spellings "darnts", "dantz", "darnz", etc. Eventually, desparate and *hungy for funk*, I went on Reddit and made a post asking for help.
+A few years back, I heard [D.H.A.R.N.T.Z.](https://www.youtube.com/watch?v=feIeCR6oFNM) by Jazz Emu. Unfortunately, the song is about homophones, which makes it insanely hard to find online if you forgot the artists name and the exact spelling. I searched for months, trying various misremembered spellings "darnts", "dantz", "darnz", etc. Eventually, desparate and *hungry for funk*, I went on Reddit and made a post asking for help.
 
 No answers, just the bot telling me the subreddit rules. A few days later, somebody sends some suggestions, but they were unfortunately wrong.
 
