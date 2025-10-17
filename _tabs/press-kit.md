@@ -50,24 +50,24 @@ Noah is a regular conference speaker and science Olympiad medalist (IJSO, EUSO),
 
 ## Selected Appearances
 
-- **EthCC 2025** - Cannes, France (June 30 - July 3, 2025)  
-  Europe's largest Ethereum conference bringing together 5,000+ developers, researchers, and builders. The premier annual gathering for the Ethereum ecosystem featuring cutting-edge research, protocol updates, and the latest in decentralized technology.  
-  [Event Website](https://ethcc.io/)
+**EthCC 2025** - Cannes, France (June 30 - July 3, 2025) [(link)](https://ethcc.io/)
+<br>*Presented "Killing with Keyboards".*  
+Europe's largest Ethereum conference bringing together 5,000+ developers, researchers, and builders. The premier annual gathering for the Ethereum ecosystem featuring cutting-edge research, protocol updates, and the latest in decentralized technology.  
 
-- **ETHTokyo 2025** - Tokyo, Japan (September 12-15, 2025)  
-  Japan's flagship Ethereum conference and one of Asia's most influential blockchain events. Known for fostering innovation in the Asian Web3 ecosystem and bridging Eastern and Western blockchain communities.  
-  [Event Website](https://ethtokyo.org/)
+**ETHTokyo 2025** - Tokyo, Japan (September 12-15, 2025) [(link)](https://ethtokyo.org/)
+<br>*Panel "Who Holds the Private Key: Reconstructing Wallet UX and Privacy".*  
+Japan's flagship Ethereum conference and one of Asia's most influential blockchain events. Known for fostering innovation in the Asian Web3 ecosystem and bridging Eastern and Western blockchain communities.  
 
-- **ETHPrague 2025** - Prague, Czechia (May 27-29, 2025)  
-  Central Europe's premier Ethereum conference, renowned for its intimate atmosphere and focus on technical innovation. A key gathering point for European developers and researchers pushing the boundaries of decentralized systems.  
-  [Event Website](https://ethprague.com/)
+**ETHPrague 2025** - Prague, Czechia (May 27-29, 2025) [(link)](https://ethprague.com/)
+<br>*Presented "Killing with Keyboards".*  
+Central Europe's premier Ethereum conference, renowned for its intimate atmosphere and focus on technical innovation. A key gathering point for European developers and researchers pushing the boundaries of decentralized systems.  
 
-- **DeFiSecuritySummit 2023** - Paris, France (July 15-16, 2023)  
-  The world's leading conference dedicated to decentralized finance security. Brings together security researchers, protocol developers, and industry leaders to address the most critical challenges in DeFi infrastructure and smart contract security.  
-  [Event Website](https://defisecuritysummit.org/)
+**DeFiSecuritySummit 2023** - Paris, France (July 15-16, 2023) [(link)](https://defisecuritysummit.org/)
+<br>*Presented "Honeypots: Hacker Traps On The Blockchain".*  
+The world's leading conference dedicated to decentralized finance security. Brings together security researchers, protocol developers, and industry leaders to address the most critical challenges in DeFi infrastructure and smart contract security.  
 
-- **BSides Kraków 2025** - Kraków, Poland (September 27, 2025)  
-  Part of the global BSides network of grassroots security conferences. Known for its community-driven approach to cybersecurity education, featuring talks by practitioners for practitioners on real-world security challenges and solutions.  
-  [Event Website](https://bsideskrakow.pl/)
+**BSides Kraków 2025** - Kraków, Poland (September 27, 2025) [(link)](https://bsideskrakow.pl/)
+<br>*Presented "Killing with Keyboards".*  
+Part of the global BSides network of grassroots security conferences. Known for its community-driven approach to cybersecurity education, featuring talks by practitioners for practitioners on real-world security challenges and solutions.  
 
-See all my event appearances [here](/events)!
+See all my event appearances and recordings [here](/events)!
