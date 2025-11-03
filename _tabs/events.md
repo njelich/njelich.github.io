@@ -40,8 +40,15 @@ order: 6
 {% if event.links %}
 <div style="display: flex; gap: 10px; flex-wrap: wrap; margin: 10px 0;">
 {% for link in event.links %}
-{% assign video_id = link | split: 'v=' | last | split: '&' | first %}
+{% if link contains 'youtube.com' or link contains 'youtu.be' %}
+  {% assign video_id = link | split: 'v=' | last | split: '&' | first %}
+  {% if video_id == link %}
+    {% assign video_id = link | split: '/' | last | split: '?' | first %}
+  {% endif %}
   <iframe width="240" height="135" src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
+{% else %}
+  <iframe src="{{ link }}"  width="240"  height="132"  frameborder="0"  scrolling="auto" allowfullscreen="true" ></iframe>
+{% endif %}
 {% endfor %}
 </div>
 {% endif %}

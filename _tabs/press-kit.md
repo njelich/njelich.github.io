@@ -20,9 +20,9 @@ Noah Jelich is a security researcher and software engineer at [Oasis](https://oa
 
 Noah Jelich is a security researcher and software engineer at [Oasis](https://oasis.net/) with over a decade of experience specializing in blockchain security, TEE (Trusted Execution Environment) technology, and privacy-preserving systems. 
 
-He previously served as Security Audit Team Lead at [Hacken](https://hacken.io/), managing a team of seven auditors and regularly analyzing active exploits to provide rapid security assessments. He currently advises [Cyber Capital](https://www.cyber.capital/), a hedge fund where he provides market insights and technical analysis, and is an active contributor to [Security Alliance](https://www.securityalliance.org/) (SEAL), the leading crypto security response organization that provides free services to hack victims.
+He previously served as Security Audit Team Lead at [Hacken](https://hacken.io/), managing a team of seven auditors and regularly analyzing active exploits to provide rapid security assessments. He currently advises [Cyber Capital](https://www.cyber.capital/), a hedge fund where he provides market insights and technical analysis, and is an active contributor to [Security Alliance](https://www.securityalliance.org/) (SEAL), the leading crypto security response organization that provides free services to hack victims. Outside work, he is a science Olympiad medalist (IJSO, EUSO) and maintains active interests in physics, particularly rocketry and radioastronomy.
 
-Noah is a regular conference speaker and science Olympiad medalist (IJSO, EUSO), with a global track record. His expertise spans application security and auditing, exploit analysis, advanced testing methods and privacy-enhancing technologies.
+Noah is a regular conference speaker with a global track record. His expertise spans application security and auditing, exploit analysis, advanced testing methods and privacy-enhancing technologies.
 
 ## Speaking Topics
 
@@ -50,13 +50,15 @@ Noah is a regular conference speaker and science Olympiad medalist (IJSO, EUSO),
 
 ## Selected Appearances
 
-**EthCC 2025** - Cannes, France (June 30 - July 3, 2025) [(link)](https://ethcc.io/)
-<br>*Presented "Killing with Keyboards".*  
-Europe's largest Ethereum conference bringing together 5,000+ developers, researchers, and builders. The premier annual gathering for the Ethereum ecosystem featuring cutting-edge research, protocol updates, and the latest in decentralized technology.  
+<iframe width="360" height="203" src="https://www.youtube.com/embed/GZAG9LnsfBg" frameborder="0" allowfullscreen></iframe>
 
 **ETHTokyo 2025** - Tokyo, Japan (September 12-15, 2025) [(link)](https://ethtokyo.org/)
 <br>*Panel "Who Holds the Private Key: Reconstructing Wallet UX and Privacy".*  
 Japan's flagship Ethereum conference and one of Asia's most influential blockchain events. Known for fostering innovation in the Asian Web3 ecosystem and bridging Eastern and Western blockchain communities.  
+
+**EthCC 2025** - Cannes, France (June 30 - July 3, 2025) [(link)](https://ethcc.io/)
+<br>*Presented "Killing with Keyboards".*  
+Europe's largest Ethereum conference bringing together 5,000+ developers, researchers, and builders. The premier annual gathering for the Ethereum ecosystem featuring cutting-edge research, protocol updates, and the latest in decentralized technology.  
 
 **ETHPrague 2025** - Prague, Czechia (May 27-29, 2025) [(link)](https://ethprague.com/)
 <br>*Presented "Killing with Keyboards".*  

@@ -155,7 +155,10 @@
       "eventStartDate": "2025-05-21T00:00:00Z",
       "eventEndDate": "2025-05-23T00:00:00Z",
       "location": "Zagreb, Croatia",
-      "website": "https://www.dorscluc.org/"
+      "website": "https://www.dorscluc.org/",
+      "links": [
+        "https://meduza.carnet.hr/index.php/media/embed/54877"
+      ]
     },
     {
       "id": 1013372,
