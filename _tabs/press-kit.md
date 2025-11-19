@@ -2,11 +2,12 @@
 # the default layout is 'page'
 icon: fas fa-newspaper
 order: 5
+glightbox: false
 ---
 
 ## Short Bio
 
-Noah Jelich is a security researcher and software engineer at [Oasis](https://oasis.net/), specializing in blockchain security, TEE technology, and privacy systems. A former audit lead at [Hacken](https://hacken.io/) and advisor to [Cyber Capital](https://www.cyber.capital/), he contributes to [Security Alliance](https://www.securityalliance.org/) and speaks globally on security and privacy.
+Noah Jelich is a security researcher and software engineer at [Oasis](https://oasis.net/), specializing in blockchain security, TEE technology, and privacy systems. A former audit lead at [Hacken](https://hacken.io/), he also advises [Cyber Capital](https://www.cyber.capital/), and contributes to [Security Alliance](https://www.securityalliance.org/) and speaks globally on security and privacy.
 
 **Location / Timezone**: Croatia / CEST (Central European Standard Time)
 
@@ -14,7 +15,85 @@ Noah Jelich is a security researcher and software engineer at [Oasis](https://oa
 
 ## Media Gallery
 
-- [Headshot - Full Color](/assets/img/profileimage.jpg)
+<div style="text-align: center; margin-bottom: 32px;">
+  <!-- Main image -->
+  <a href="/assets/img/press-kit-gallery/noahjelich-main-full.jpg" download>
+    <img src="/assets/img/press-kit-gallery/noahjelich-main-full.webp" alt="Noah Jelich Headshot" style="width: 320px; max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px #0001;">
+  </a>
+  <div style="margin: 12px 0 6px 0; font-size: 1.05em; font-weight: bold;">
+    Main Headshot / Torso
+  </div>
+  <!-- Download bar -->
+  <div style="display: flex; justify-content: center; align-items: center; gap: 18px; margin-bottom: 8px;">
+    <div style="text-align: center;">
+      <a href="/assets/img/press-kit-gallery/noahjelich-main-1:1.jpg" download>
+        <img src="/assets/img/press-kit-gallery/noahjelich-main-1:1.webp" alt="1:1" style="width: 50px; height: 50px; object-fit: cover; border-radius: 4px; border: 1px solid #ccc;">
+      </a>
+      <div style="font-size: 0.85em; margin-top: 2px;">1:1</div>
+    </div>
+    <div style="text-align: center;">
+      <a href="/assets/img/press-kit-gallery/noahjelich-main-3:4.jpg" download>
+        <img src="/assets/img/press-kit-gallery/noahjelich-main-3:4.webp" alt="4:3" style="width: 38px; height: 50px; object-fit: cover; border-radius: 4px; border: 1px solid #ccc;">
+      </a>
+      <div style="font-size: 0.85em; margin-top: 2px;">4:3</div>
+    </div>
+    <div style="text-align: center;">
+      <a href="/assets/img/press-kit-gallery/noahjelich-main-16:9.jpg" download>
+        <img src="/assets/img/press-kit-gallery/noahjelich-main-16:9.webp" alt="9:16" style="width: 32px; height: 56px; object-fit: cover; border-radius: 4px; border: 1px solid #ccc;">
+      </a>
+      <div style="font-size: 0.85em; margin-top: 2px;">9:16</div>
+    </div>
+    <div style="text-align: center;">
+      <a href="/assets/img/press-kit-gallery/noahjelich-closeup-1:1.jpg" download>
+        <img src="/assets/img/press-kit-gallery/noahjelich-closeup-1:1.webp" alt="Closeup" style="width: 50px; height: 50px; object-fit: cover; border-radius: 50%; border: 1px solid #ccc;">
+      </a>
+      <div style="font-size: 0.85em; margin-top: 2px;">Closeup</div>
+    </div>
+    <div style="text-align: center;">
+      <a href="/assets/img/press-kit-gallery/noahjelich-main-full.jpg" download>
+        <img src="/assets/img/press-kit-gallery/noahjelich-main-full.webp" alt="Full" style="width: 84px; height: 48px; object-fit: cover; border: 1px solid #ccc;">
+      </a>
+      <div style="font-size: 0.85em; margin-top: 2px;">Full</div>
+    </div>
+  </div>
+  <div style="font-size: 0.92em; color: #666;">
+    Download: <a href="/assets/img/press-kit-gallery/noahjelich-main-1:1.jpg">1:1 (square)</a>, <a href="/assets/img/press-kit-gallery/noahjelich-main-3:4.jpg">4:3 (portrait)</a>, <a href="/assets/img/press-kit-gallery/noahjelich-main-9:16.jpg">9:16 (vertical)</a>, <a href="/assets/img/press-kit-gallery/noahjelich-closeup-1:1.jpg">Closeup</a>, or <a href="/assets/img/press-kit-gallery/noahjelich-main-full.jpg">Full</a> resolution.
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 0; max-width: 700px; line-height: 0;">
+  <!-- Top left -->
+  <div style="text-align: center;">
+   <div style="margin-bottom: 6px; font-size: 0.95em;">ETH Tokyo Panel</div>
+    <a href="/assets/img/press-kit-gallery/noahjelich-ethtokyo-panel.jpg" download>
+      <img src="/assets/img/press-kit-gallery/noahjelich-ethtokyo-panel.webp" alt="ETH Tokyo Panel" style="object-fit: cover; height: 270px; width: 100%; max-width: 100%; border-radius: 0; box-shadow: none;">
+    </a>
+  </div>
+
+  <!-- Top right -->
+  <div style="text-align: center;">
+   <div style="margin-bottom: 6px; font-size: 0.95em;">DORS/CLUC</div>
+    <a href="/assets/img/press-kit-gallery/noahjelich-dorscluc.jpg" download>
+      <img src="/assets/img/press-kit-gallery/noahjelich-dorscluc.webp" alt="DORS/CLUC" style="object-fit: cover; height: 270px; width: 100%; max-width: 100%; border-radius: 0; box-shadow: none;">
+    </a>
+  </div>
+
+  <!-- Bottom left -->
+  <div style="text-align: center;">
+    <a href="/assets/img/press-kit-gallery/noahjelich-sfscon.jpg" download>
+      <img src="/assets/img/press-kit-gallery/noahjelich-sfscon.webp" alt="SFSCON" style="object-fit: cover; height: 270px; width: 100%; max-width: 100%; border-radius: 0; box-shadow: none;">
+    </a>
+    <div style="margin-top: 6px; font-size: 0.95em;">SFSCON</div>
+  </div>
+
+  <!-- Bottom right -->
+  <div style="text-align: center;">
+    <a href="/assets/img/press-kit-gallery/noahjelich-ethdam.jpg" download>
+      <img src="/assets/img/press-kit-gallery/noahjelich-ethdam.webp" alt="ETHDam" style="object-fit: cover; height: 270px; width: 100%; max-width: 100%; border-radius: 0; box-shadow: none;">
+    </a>
+    <div style="margin-top: 6px; font-size: 0.95em;">ETHDam</div>
+  </div>
+</div>
 
 ## Long Bio
 

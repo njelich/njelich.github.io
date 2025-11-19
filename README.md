@@ -29,6 +29,20 @@ latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so tha
 
 Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
+Run with `bundle exec jekyll serve` and open `http://localhost:4000` in your browser.
+
+To generate webp images use `convert -strip -quality 80 -resize 800 -format webp "*.jpg"` in the `assets/img/` folder (requires [ImageMagick](https://imagemagick.org/index.php)).
+
+`convert filename.jpg -quality 80 -strip -define webp:lossless=false -define webp:method=6 filename.webp`
+
+Run the following shell script to convert all the files in the current directory:
+
+```shell
+for file in *.jpg; do
+  convert "$file" -strip -quality 80 -resize 800 -define webp:lossless=false -define webp:method=6 "${file%.jpg}.webp"
+done
+```
+
 ## Contributing
 
 This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.

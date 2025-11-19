@@ -5,8 +5,8 @@ order: 6
 ---
 
 {% assign current_date = "now" | date: "%s" %}
-{% assign upcoming_events = site.data.sessions.events | where_exp: "event", "event.eventStartDate" %}
-{% assign past_events = site.data.sessions.events | where_exp: "event", "event.eventStartDate" %}
+{% assign upcoming_events = site.data.sessions.events | where_exp: "event", "event.eventEndDate" %}
+{% assign past_events = site.data.sessions.events | where_exp: "event", "event.eventEndDate" %}
 
 ## **Upcoming Events**
 {% assign sorted_upcoming = upcoming_events | sort: 'eventStartDate' %}
@@ -56,3 +56,17 @@ order: 6
 ---
 {% endif %}
 {% endfor %}
+ 
+## **Current Talks**
+
+### Killing With Keyboards: How Your Digital Footprint Can Be Weaponized
+
+In an era where information is power, the wrong keystroke can mean the difference between security and catastrophe. Killing with Keyboards explores real-world scenarios where digital traces—social media posts, blockchain transactions, leaked metadata—become vulnerabilities exploited by hackers, corporations, and state actors.
+
+Whether you’re securing billions in crypto assets or protecting an activist network from surveillance, this talk will equip you with the mindset and tools to recognize and mitigate digital threats before they strike. Learn how adversaries think, how data leaks occur, and how to fortify your online presence against those who weaponize information.
+
+### Breaking Narratives: How Code Review Beats Marketing Decks
+
+In an industry built on hype and promises, the real edge doesn’t come from louder storytelling — it comes from seeing through it. This talk explores how deep technical diligence and code-level analysis expose the truth behind polished narratives. 
+
+We’ll look at how engineering insight can cut through marketing spin, reveal structural flaws early, and separate genuine innovation from glossy vaporware. Because in the end, the code always tells the truth — even when the founders don’t.
