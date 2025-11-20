@@ -57,7 +57,7 @@ Noah Jelich is a security researcher and software engineer at [Oasis](https://oa
     </div>
   </div>
   <div style="font-size: 0.92em; color: #666;">
-    Download: <a href="/assets/img/press-kit-gallery/noahjelich-main-1:1.jpg">1:1 (square)</a>, <a href="/assets/img/press-kit-gallery/noahjelich-main-3:4.jpg">4:3 (portrait)</a>, <a href="/assets/img/press-kit-gallery/noahjelich-main-9:16.jpg">9:16 (vertical)</a>, <a href="/assets/img/press-kit-gallery/noahjelich-closeup-1:1.jpg">Closeup</a>, or <a href="/assets/img/press-kit-gallery/noahjelich-main-full.jpg">Full</a> resolution.
+    Download: <a href="/assets/img/press-kit-gallery/noahjelich-main-1:1.jpg">1:1 (square)</a>, <a href="/assets/img/press-kit-gallery/noahjelich-main-3:4.jpg">4:3 (portrait)</a>, <a href="/assets/img/press-kit-gallery/noahjelich-main-16:9.jpg">9:16 (vertical)</a>, <a href="/assets/img/press-kit-gallery/noahjelich-closeup-1:1.jpg">Closeup</a>, or <a href="/assets/img/press-kit-gallery/noahjelich-main-full.jpg">Full</a> resolution.
   </div>
 </div>
 
