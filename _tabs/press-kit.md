@@ -33,9 +33,9 @@ Noah Jelich is a security researcher and software engineer at [Oasis](https://oa
     </div>
     <div style="text-align: center;">
       <a href="/assets/img/press-kit-gallery/noahjelich-main-3:4.jpg" >
-        <img src="/assets/img/press-kit-gallery/noahjelich-main-3:4.webp" alt="4:3" style="width: 38px; height: 50px; object-fit: cover; border-radius: 4px; border: 1px solid #ccc;">
+        <img src="/assets/img/press-kit-gallery/noahjelich-main-3:4.webp" alt="3:4" style="width: 38px; height: 50px; object-fit: cover; border-radius: 4px; border: 1px solid #ccc;">
       </a>
-      <div style="font-size: 0.85em; margin-top: 2px;">4:3</div>
+      <div style="font-size: 0.85em; margin-top: 2px;">3:4</div>
     </div>
     <div style="text-align: center;">
       <a href="/assets/img/press-kit-gallery/noahjelich-main-16:9.jpg" >
