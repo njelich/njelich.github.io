@@ -3,6 +3,7 @@
 source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", git: "https://github.com/njelich/jekyll-theme-chirpy.git", branch: "master"
+# gem "jekyll-theme-chirpy", path: "../jekyll-theme-chirpy"
 
 gem "html-proofer", "~> 5.0", group: :test
 

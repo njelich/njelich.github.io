@@ -29,6 +29,11 @@ latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so tha
 
 Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
+To use a git version, we need to build static assets:
+```
+cd $(bundle show jekyll-theme-chirpy) && npm install && npm run build
+```
+
 Run with `bundle exec jekyll serve` and open `http://localhost:4000` in your browser.
 
 To generate webp images use `convert -strip -quality 80 -resize 800 -format webp "*.jpg"` in the `assets/img/` folder (requires [ImageMagick](https://imagemagick.org/index.php)).
