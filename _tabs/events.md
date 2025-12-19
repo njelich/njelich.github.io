@@ -67,6 +67,13 @@ Whether you’re securing billions in crypto assets or protecting an activist ne
 
 ### Breaking Narratives: How Code Review Beats Marketing Decks
 
-In an industry built on hype and promises, the real edge doesn’t come from louder storytelling — it comes from seeing through it. This talk explores how deep technical diligence and code-level analysis expose the truth behind polished narratives. 
+In an industry built on hype and promises, the real edge doesn’t come from louder storytelling - it comes from seeing through it. This talk explores how deep technical diligence and code-level analysis expose the truth behind polished narratives. 
 
-We’ll look at how engineering insight can cut through marketing spin, reveal structural flaws early, and separate genuine innovation from glossy vaporware. Because in the end, the code always tells the truth — even when the founders don’t.
+We’ll look at how engineering insight can cut through marketing spin, reveal structural flaws early, and separate genuine innovation from glossy vaporware. Because in the end, the code always tells the truth - even when the founders don’t.
+
+### Why The Future Of TEEs Is Federated, Not Decentralized
+
+Recent exploits such as tee.fail have shown that fully permissionless TEE deployments inherit the weakest assumptions of both hardware trust and open networks. When any node can attest and execute, economic incentives and opaque microarchitectural flaws turn decentralization into an attack surface rather than a defense. 
+
+This talk argues that meaningful TEE security requires federation: curated operators, shared accountability, and layered trust rather than anonymous participation. We explore how federated TEEs preserve verifiability while enabling rapid mitigation, governance, and real-world security guarantees that decentralized models cannot sustain.
+
