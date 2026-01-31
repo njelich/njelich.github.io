@@ -61,19 +61,12 @@ order: 6
 
 ### Killing With Keyboards: How Your Digital Footprint Can Be Weaponized
 
-In an era where information is power, the wrong keystroke can mean the difference between security and catastrophe. Killing with Keyboards explores real-world scenarios where digital traces—social media posts, blockchain transactions, leaked metadata—become vulnerabilities exploited by hackers, corporations, and state actors.
+Sashko is a security researcher at REDACTED, and he is about to become a key chess piece in the game of digital warfare. Join me as I explore the story of how even benign online activities can be weaponized against individuals and organizations.
 
-Whether you’re securing billions in crypto assets or protecting an activist network from surveillance, this talk will equip you with the mindset and tools to recognize and mitigate digital threats before they strike. Learn how adversaries think, how data leaks occur, and how to fortify your online presence against those who weaponize information.
+This talk will equip you with the mindset to recognize and mitigate digital threats before they strike. Learn how adversaries think, how data leaks occur, and how to fortify your online presence against those who weaponize information.
 
 ### Breaking Narratives: How Code Review Beats Marketing Decks
 
-In an industry built on hype and promises, the real edge doesn’t come from louder storytelling - it comes from seeing through it. This talk explores how deep technical diligence and code-level analysis expose the truth behind polished narratives. 
+Everything today seems to be hype and empty promises, so where does one find the real edge? How about by seeing through it all?
 
-We’ll look at how engineering insight can cut through marketing spin, reveal structural flaws early, and separate genuine innovation from glossy vaporware. Because in the end, the code always tells the truth - even when the founders don’t.
-
-### Why The Future Of TEEs Is Federated, Not Decentralized
-
-Recent exploits such as tee.fail have shown that fully permissionless TEE deployments inherit the weakest assumptions of both hardware trust and open networks. When any node can attest and execute, economic incentives and opaque microarchitectural flaws turn decentralization into an attack surface rather than a defense. 
-
-This talk argues that meaningful TEE security requires federation: curated operators, shared accountability, and layered trust rather than anonymous participation. We explore how federated TEEs preserve verifiability while enabling rapid mitigation, governance, and real-world security guarantees that decentralized models cannot sustain.
-
+Learn how deep technical diligence and code analysis can cut through marketing spin, reveal structural flaws early, and separate genuine innovation from glossy vaporware. End of the day,code is law, even when the founders break it.
