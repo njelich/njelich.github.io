@@ -7,7 +7,7 @@ glightbox: false
 
 ## Short Bio
 
-Noah Jelich is an independent security researcher and software engineer, specializing in blockchain security, TEE technology, and privacy systems. A formerly an audit lead at [Hacken](https://hacken.io/), as well as a DevEx engineer at [Oasis](https://oasis.net/), he currently advises [Cyber Capital](https://www.cyber.capital/), contributes to [Security Alliance](https://www.securityalliance.org/) Frameworks and speaks globally on security and privacy.
+Noah Jelich is an independent security researcher and software engineer, specializing in blockchain security, TEE technology, and privacy systems. Formerly an audit lead at [Hacken](https://hacken.io/), as well as a DevEx engineer at [Oasis](https://oasis.net/), he currently advises [Cyber Capital](https://www.cyber.capital/), contributes to [Security Alliance](https://www.securityalliance.org/) Frameworks and speaks globally on security and privacy.
 
 **Location / Timezone**: Croatia / CEST (Central European Standard Time)
 
