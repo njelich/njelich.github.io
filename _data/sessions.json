@@ -20,6 +20,15 @@
   ],
   "events": [
     {
+      "id": 6,
+      "name": "Common S3nse 2026",
+      "description": "Presented \"Breaking Narratives\"",
+      "eventStartDate": "2026-09-04T00:00:00Z",
+      "eventEndDate": "2026-09-05T00:00:00Z",
+      "location": "Amsterdam, The Netherlands",
+      "website": "https://commons3nse.cryptocanal.org"
+    },
+    {
       "id": 5,
       "name": "ETHBelgrade 2026",
       "description": "Presented \"Breaking Narratives\"",

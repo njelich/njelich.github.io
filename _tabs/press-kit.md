@@ -7,7 +7,7 @@ glightbox: false
 
 ## Short Bio
 
-Noah Jelich is an independent security researcher and software engineer, specializing in blockchain security, TEE technology, and privacy systems. Formerly an audit lead at [Hacken](https://hacken.io/), as well as a DevEx engineer at [Oasis](https://oasis.net/), he currently advises [Cyber Capital](https://www.cyber.capital/), contributes to [Security Alliance](https://www.securityalliance.org/) Frameworks and speaks globally on security and privacy.
+Noah Jelich is an independent security researcher and software engineer, specializing in blockchain security, TEE technology, and privacy systems. Formerly an audit lead at [Hacken](https://hacken.io/), a DevEx engineer at [Oasis](https://oasis.net/), and cryptocurrency researcher at [Cyber Capital](https://www.cyber.capital/), he contributes to [Security Alliance](https://www.securityalliance.org/) Frameworks and speaks globally on security and privacy.
 
 **Location / Timezone**: Croatia / CEST (Central European Standard Time)
 
@@ -100,7 +100,9 @@ Noah Jelich is an independent security researcher and software engineer, special
 
 Noah Jelich is an independent security researcher and software engineer with nearly a decade of experience specializing in blockchain security, code-review, and privacy-preserving systems. 
 
-He previously served as Security Audit Team Lead at [Hacken](https://hacken.io/), managing a team of seven auditors and regularly analyzing active exploits to provide rapid security assessments, as well as as a DevEx engineer at [Oasis](https://oasis.net/). He currently advises [Cyber Capital](https://www.cyber.capital/), a hedge fund where he provides market insights and technical analysis, and is an active contributor to [Security Alliance](https://www.securityalliance.org/) (SEAL Frameworks). Outside work, he is a science Olympiad medalist (IJSO, EUSO), musician, and maintains active interests in physics, particularly rocketry and radioastronomy.
+He previously served as Security Audit Team Lead at [Hacken](https://hacken.io/), where he managed a team of seven auditors and regularly analyzed active exploits to deliver rapid security assessments. He also worked as a DevEx engineer at [Oasis](https://oasis.net/), advised [Cyber Capital](https://www.cyber.capital/), a hedge fund, by providing market insights and technical analysis, and is an active contributor to [Security Alliance](https://www.securityalliance.org/) (SEAL Frameworks).
+
+Outside work, he is a science Olympiad medalist (IJSO, EUSO),hobbyist  musician, and maintains active interests in physics, particularly rocketry and radio-astronomy.
 
 Noah is a regular conference speaker with a global track record. His expertise spans application security and auditing, exploit analysis, advanced testing methods and privacy-enhancing technologies.
 
